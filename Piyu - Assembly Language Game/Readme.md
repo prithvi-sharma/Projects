@@ -2,10 +2,10 @@
 
 <img src = "https://github.com/prithvi-sharma/Projects/blob/master/Piyu%20-%20Assembly%20Language%20Game/Images/Main%20Page.jpg">
 This is my MPI - Micro-Processor and Interfacing subject project.
-
+<br>
 The legendary "Pac-Man" was written in Assembly language so I wanted to make something like that but in a simpler and feasible manner hence me and my team made this game.
-
 <hr>
+
 # Gameplay
 
 #### Game Start :-
@@ -21,6 +21,11 @@ The legendary "Pac-Man" was written in Assembly language so I wanted to make som
 #### Lossing it : - 
 
 <img src = "Piyu Lose.gif">
+<hr>
+
+# Requirements
+
+> PyGame.
 <hr>
 
 # Thanks for reading.
