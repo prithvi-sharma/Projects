@@ -25,7 +25,7 @@ The legendary "Pac-Man" was written in Assembly language so I wanted to make som
 
 # Requirements
 
-<a href="https://github.com/pygame/pygame">PyGame.</a>
+<a href="https://github.com/pygame/pygame">PyGame</a>
 <hr>
 
 # Thanks for reading.
