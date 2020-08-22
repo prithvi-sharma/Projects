@@ -1,5 +1,5 @@
 # Piyu - Assembly Languuage Game
-</br></br>
+</br>
 <img src = "https://github.com/prithvi-sharma/Projects/blob/master/Piyu%20-%20Assembly%20Language%20Game/Images/Piyu.png">
 </br></br>
 <strong>This is my MPI - Micro-Processor and Interfacing subject project.</strong></br>
