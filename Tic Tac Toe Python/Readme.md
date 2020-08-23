@@ -8,7 +8,7 @@ So, me and my friend took the game of 'Tic Tac Toe' and applied simple Perumtati
 <hr>
 
 # Game Snaps
-</br>
+
 
 ### Initial Screen :-
 <img src = "https://github.com/prithvi-sharma/Projects/blob/master/Tic%20Tac%20Toe%20Python/2.Initial%20Screen.JPG">
