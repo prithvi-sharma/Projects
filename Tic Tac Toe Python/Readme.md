@@ -8,15 +8,15 @@ So, me and my friend took the game of 'Tic Tac Toe' and applied simple Perumtati
 <hr>
 
 # Game Snaps
-
-## Initial Screen
+</br></br>
+### Initial Screen
 <img src = "https://github.com/prithvi-sharma/Projects/blob/master/Tic%20Tac%20Toe%20Python/2.Initial%20Screen.JPG">
 
-## O Wins
+### O Wins
 <img src = "https://github.com/prithvi-sharma/Projects/blob/master/Tic%20Tac%20Toe%20Python/3.O%20wins.JPG">
 
-## X Wins
+### X Wins
 <img src = "https://github.com/prithvi-sharma/Projects/blob/master/Tic%20Tac%20Toe%20Python/4.X%20wins.JPG">
 
-## Draw Game
+### Draw Game
 <img src = "https://github.com/prithvi-sharma/Projects/blob/master/Tic%20Tac%20Toe%20Python/5.Draw.JPG">
