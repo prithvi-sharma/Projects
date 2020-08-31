@@ -10,19 +10,19 @@ So, me and my friend took the game of 'Tic Tac Toe' and applied simple Perumtati
 # Game Snaps
 
 
-#### 1.Initial Screen :-
+### 1.Initial Screen :-
 <img src = "https://github.com/prithvi-sharma/Projects/blob/master/Tic%20Tac%20Toe%20Python/2.Initial%20Screen.JPG">
 <hr>
 
-#### 2.O Wins :-
+### 2.O Wins :-
 <img src = "https://github.com/prithvi-sharma/Projects/blob/master/Tic%20Tac%20Toe%20Python/3.O%20wins.JPG">
 <hr>
 
-#### 3.X Wins :-
+### 3.X Wins :-
 <img src = "https://github.com/prithvi-sharma/Projects/blob/master/Tic%20Tac%20Toe%20Python/4.X%20wins.JPG">
 <hr>
 
-#### 4.Draw Game :-
+### 4.Draw Game :-
 <img src = "https://github.com/prithvi-sharma/Projects/blob/master/Tic%20Tac%20Toe%20Python/5.Draw.JPG">
 <hr>
 
