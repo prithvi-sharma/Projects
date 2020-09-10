@@ -31,4 +31,4 @@ So, me and my friend took the game of 'Tic Tac Toe' and applied simple Perumtati
 <a href="https://github.com/pygame/pygame">PyGame</a>
 <hr>
 
-# Thanks for reading.
+# Thanks for reading!
