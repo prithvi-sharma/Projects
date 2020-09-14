@@ -28,4 +28,4 @@ The legendary "Pac-Man" was written in Assembly language so I wanted to make som
 <strong>TASM :- Turbo Assembler (or Any other assembler).</strong>
 <hr>
 
-# Thanks for reading.!
+# Thanks for reading!
